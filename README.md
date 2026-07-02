@@ -491,3 +491,164 @@ Congratulations! 🎉
 You've built a strong foundation in programming, mathematics, and data.
 
 Now it's finally time to teach computers how to learn.
+
+# 🤖 Chapter 5 — Machine Learning
+
+Congratulations! 🎉
+
+You've reached one of the most exciting parts of your AI journey:
+
+**Machine Learning (ML).**
+
+Machine Learning is the foundation of modern AI. It's what allows computers to learn from data instead of following a fixed set of instructions.
+
+In traditional programming, you write rules for the computer.
+
+In Machine Learning, the computer learns those rules by analyzing data.
+
+Think of it like teaching a child.
+
+Instead of telling them every single rule, you show them lots of examples until they begin recognizing patterns on their own.
+
+That's exactly how Machine Learning works.
+
+---
+
+## 🧠 Types of Machine Learning
+
+There are three main types of Machine Learning.
+
+### 📚 Supervised Learning
+
+The model learns from **labeled data**.
+
+This means the correct answer is already included in the dataset.
+
+Examples:
+
+- 📧 Email Spam Detection
+- 🏠 House Price Prediction
+- ❤️ Disease Prediction
+- 🖼️ Image Classification
+
+Popular algorithms:
+
+- Linear Regression
+- Logistic Regression
+- Decision Trees
+- Random Forest
+- Support Vector Machine (SVM)
+- K-Nearest Neighbors (KNN)
+
+---
+
+### 🔍 Unsupervised Learning
+
+Here, the data has **no labels**.
+
+The model tries to discover hidden patterns by itself.
+
+Examples:
+
+- 👥 Customer Segmentation
+- 🛍️ Product Recommendation
+- 📊 Data Clustering
+- 📈 Anomaly Detection
+
+Popular algorithms:
+
+- K-Means
+- DBSCAN
+- Hierarchical Clustering
+- Principal Component Analysis (PCA)
+
+---
+
+### 🎮 Reinforcement Learning
+
+Instead of learning from labels, the model learns by **trial and error**.
+
+It receives rewards for good actions and penalties for bad ones.
+
+Examples:
+
+- 🎮 Game-playing AI
+- 🤖 Robotics
+- 🚗 Self-driving Cars
+- 📦 Warehouse Automation
+
+---
+
+## 🛠️ Learn Scikit-learn
+
+If you're learning Machine Learning with Python, your best friend will be:
+
+**Scikit-learn**
+
+It's one of the most popular Machine Learning libraries in the world and is perfect for beginners.
+
+With Scikit-learn, you can:
+
+- Train models
+- Test models
+- Split datasets
+- Measure accuracy
+- Compare algorithms
+- Build complete ML projects with just a few lines of code
+
+---
+
+## 📏 Learn Model Evaluation
+
+Creating a model is only half the job.
+
+You also need to know **how good it is.**
+
+Learn these concepts:
+
+- Train/Test Split
+- Cross Validation
+- Accuracy
+- Precision
+- Recall
+- F1 Score
+- Confusion Matrix
+- ROC Curve
+- Mean Squared Error (MSE)
+- Mean Absolute Error (MAE)
+
+A good AI engineer doesn't just build models—they know how to evaluate and improve them.
+
+---
+
+## 🚀 Build Small Projects
+
+The best way to learn Machine Learning is by building real projects.
+
+Some beginner-friendly ideas:
+
+- 🏠 House Price Predictor
+- 🌸 Iris Flower Classifier
+- ❤️ Heart Disease Prediction
+- 📧 Spam Email Detector
+- 🎬 Movie Recommendation System
+- 😊 Sentiment Analysis
+- 📈 Stock Price Analysis *(for learning purposes only, not financial advice)*
+
+Each project will teach you something new and strengthen your understanding.
+
+---
+
+## 🎯 Goal
+
+By the end of this chapter, you should be able to:
+
+- ✅ Understand how Machine Learning works
+- ✅ Know the three main types of ML
+- ✅ Train your first model using Scikit-learn
+- ✅ Evaluate model performance
+- ✅ Build small Machine Learning projects from scratch
+
+Now you're ready to move one step closer to modern AI...
+
+# 🧠 Chapter 6 — Deep Learning
