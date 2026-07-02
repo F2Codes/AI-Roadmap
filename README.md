@@ -2,6 +2,31 @@
 
 An Easy Roadmap for Learning AI! 🤖
 
+![GitHub stars](https://img.shields.io/github/stars/F2Codes/AI-Roadmap?style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/F2Codes/AI-Roadmap?style=for-the-badge)
+![GitHub license](https://img.shields.io/github/license/F2Codes/AI-Roadmap?style=for-the-badge)
+![GitHub last commit](https://img.shields.io/github/last-commit/F2Codes/AI-Roadmap?style=for-the-badge)
+![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-brightgreen?style=for-the-badge)
+
+# 📚 Table of Contents
+
+- [👋 Introduction](#-introducing)
+- [🧠 Chapter 1 — What is Artificial Intelligence?](#-chapter-1--what-is-artificial-intelligence)
+- [🐍 Chapter 2 — Learn Python First](#-chapter-2--learn-python-first)
+- [📚 Chapter 3 — Mathematics for AI](#-chapter-3--mathematics-for-ai)
+- [📊 Chapter 4 — Learn Data Analysis](#-chapter-4--learn-data-analysis)
+- [🤖 Chapter 5 — Machine Learning](#-chapter-5--machine-learning)
+- [🧠 Chapter 6 — Deep Learning](#-chapter-6--deep-learning)
+- [👁️ Chapter 7 — Computer Vision](#-chapter-7--computer-vision)
+- [💬 Chapter 8 — Natural Language Processing (NLP)](#-chapter-8--natural-language-processing-nlp)
+- [🤖 Chapter 9 — Large Language Models (LLMs)](#-chapter-9--large-language-models-llms)
+- [🎨 Chapter 10 — Generative AI](#-chapter-10--generative-ai)
+- [☁️ Chapter 11 — MLOps & Deployment](#-chapter-11--mlops--deployment)
+- [💼 Chapter 12 — Build Real Projects](#-chapter-12--build-real-projects)
+- [🚀 Chapter 13 — Build Your Portfolio](#-chapter-13--build-your-portfolio)
+- [🎉 Chapter 14 — Final Words](#-chapter-14--final-words)
+- [📚 Recommended Courses & Learning Resources](#-recommended-courses--learning-resources)
+
 ## 👋 Introduction
 
 Hello everyone!
