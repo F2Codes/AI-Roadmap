@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/cover.png" alt="AI Roadmap" width="100%">
+</p>
+
 # AI Roadmap
 
 An Easy Roadmap for Learning AI! 🤖
