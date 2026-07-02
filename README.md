@@ -347,3 +347,147 @@ By the end of this chapter, you should:
 
 Now it's time for the next step...
 
+# 📊 Chapter 4 — Learn Data Analysis
+
+Now that you know Python and have a basic understanding of the mathematics you'll need, it's time to work with the most valuable thing in AI:
+
+> **Data.**
+
+There's a famous saying in the AI community:
+
+> **"Data is the new oil."**
+
+An AI model is only as good as the data it's trained on.
+
+Even the most advanced algorithm won't perform well if the data is poor, incomplete, or incorrect.
+
+That's why every AI engineer needs to know how to collect, clean, analyze, and visualize data before building machine learning models.
+
+---
+
+## 🧹 What is Data Analysis?
+
+Data analysis is the process of exploring data to understand what's inside it.
+
+Before training an AI model, you'll usually need to:
+
+- 📥 Collect data
+- 🧹 Clean messy data
+- ❌ Remove duplicates
+- 🔍 Find missing values
+- 📊 Analyze patterns
+- 📈 Visualize the results
+- ✅ Prepare the data for machine learning
+
+This process is often called **Data Preprocessing**, and it's one of the most important steps in AI.
+
+---
+
+## 📚 Libraries You Should Learn
+
+Python has amazing libraries that make working with data much easier.
+
+Start with these:
+
+### 🐼 Pandas
+
+The most popular library for working with tables and datasets.
+
+You'll learn how to:
+
+- Read CSV and Excel files
+- Filter data
+- Sort data
+- Group data
+- Handle missing values
+- Merge datasets
+
+---
+
+### 🔢 NumPy
+
+NumPy is the foundation of scientific computing in Python.
+
+Learn:
+
+- Arrays
+- Matrix operations
+- Mathematical functions
+- Random number generation
+- Performance optimization
+
+Many AI libraries are built on top of NumPy.
+
+---
+
+### 📊 Matplotlib
+
+A simple but powerful visualization library.
+
+Create charts such as:
+
+- Line Charts
+- Bar Charts
+- Scatter Plots
+- Histograms
+- Pie Charts
+
+Visualizing your data often helps you discover patterns that aren't obvious from raw numbers.
+
+---
+
+### 🌊 Seaborn
+
+Seaborn builds on Matplotlib and makes beautiful statistical visualizations much easier.
+
+Useful charts include:
+
+- Heatmaps
+- Pair Plots
+- Box Plots
+- Violin Plots
+- Correlation Maps
+
+---
+
+## 🧪 Practice with Real Datasets
+
+The best way to improve is by working with real-world data.
+
+Some great places to find datasets are:
+
+- 📊 Kaggle
+- 🌍 UCI Machine Learning Repository
+- 🏛️ Government Open Data Portals
+- 📦 Hugging Face Datasets
+
+Start with small datasets before moving on to larger ones.
+
+---
+
+## 💡 Remember
+
+Many beginners think AI is all about building fancy neural networks.
+
+In reality, professional AI engineers often spend **more time preparing data than training models.**
+
+Learning data analysis well will make every future step much easier.
+
+---
+
+## 🎯 Goal
+
+By the end of this chapter, you should be able to:
+
+- ✅ Read and explore datasets
+- ✅ Clean messy data
+- ✅ Handle missing values
+- ✅ Create meaningful visualizations
+- ✅ Understand the structure of a dataset
+- ✅ Prepare data for Machine Learning
+
+Congratulations! 🎉
+
+You've built a strong foundation in programming, mathematics, and data.
+
+Now it's finally time to teach computers how to learn.
