@@ -794,3 +794,254 @@ You've now reached the point where you can build intelligent models.
 The next step is learning how AI can **see** the world.
 
 # 👁️ Chapter 7 — Computer Vision
+
+Welcome to one of the most fascinating fields in Artificial Intelligence.
+
+Until now, you've learned how AI can work with **numbers**, **patterns**, and **data**.
+
+Now it's time to teach computers something humans do every second without even thinking:
+
+> **Seeing.**
+
+This field is called **Computer Vision (CV).**
+
+Computer Vision is a branch of AI that enables computers to understand, analyze, and interpret images and videos.
+
+Instead of simply storing an image as millions of pixels, a Computer Vision model learns what those pixels actually represent.
+
+For example, it can recognize:
+
+- 👤 Faces
+- 🚗 Cars
+- 🐶 Animals
+- 🌳 Trees
+- ✍️ Handwritten text
+- 🚦 Traffic signs
+- 📦 Objects
+- 🩺 Medical images
+
+Computer Vision is everywhere—even if you don't notice it.
+
+---
+
+## 🌍 Real-World Applications
+
+You probably use Computer Vision every day.
+
+Some common examples include:
+
+- 📱 Face ID on your smartphone
+- 🚗 Self-driving vehicles
+- 🏥 Medical image analysis
+- 🛒 Self-checkout systems
+- 📷 Snapchat and Instagram filters
+- 🎥 Security cameras
+- 🚁 Drones
+- 🛰️ Satellite image analysis
+- 🌾 Agriculture monitoring
+- 🏭 Industrial quality inspection
+
+As you can see, Computer Vision is used in almost every industry.
+
+---
+
+## 🧠 How Does a Computer "See"?
+
+Unlike humans, computers don't actually "see."
+
+They receive images as numbers.
+
+Every image is made of thousands (or even millions) of tiny pixels.
+
+Each pixel contains numerical values that represent colors.
+
+Your job as an AI engineer is to build models that learn patterns from these numbers.
+
+For example:
+
+A human instantly recognizes a cat.
+
+A computer must first learn what makes a cat look like a cat by analyzing thousands of labeled examples.
+
+That's why **data** is so important.
+
+---
+
+## 📚 Topics You Should Learn
+
+Don't rush.
+
+Master these topics one by one.
+
+### 📷 Digital Images
+
+Understand:
+
+- Pixels
+- Resolution
+- RGB Color Space
+- Grayscale Images
+- Image Formats (PNG, JPG, etc.)
+
+---
+
+### 🖼️ Image Processing
+
+Learn how to manipulate images.
+
+Examples include:
+
+- Resize images
+- Crop images
+- Rotate images
+- Blur images
+- Sharpen images
+- Adjust brightness
+- Detect edges
+
+These are fundamental skills before training AI models.
+
+---
+
+### 🔍 Feature Extraction
+
+Before Deep Learning became popular, engineers manually extracted image features.
+
+Although modern AI automates much of this process, understanding feature extraction is still valuable.
+
+Learn concepts like:
+
+- Edges
+- Corners
+- Contours
+- Keypoints
+
+---
+
+### 🧠 Convolutional Neural Networks (CNNs)
+
+CNNs are the foundation of modern Computer Vision.
+
+They are specialized neural networks designed for image-related tasks.
+
+Learn about:
+
+- Convolution Layers
+- Pooling Layers
+- Feature Maps
+- Filters
+- Kernels
+- Flatten Layer
+- Fully Connected Layers
+
+You don't need to memorize every equation.
+
+Focus on understanding **how information flows through the network.**
+
+---
+
+## 🛠️ Libraries You Should Learn
+
+### 👁️ OpenCV
+
+OpenCV is one of the most popular Computer Vision libraries.
+
+With OpenCV, you can:
+
+- Read images
+- Process videos
+- Detect faces
+- Detect edges
+- Draw shapes
+- Track objects
+
+If you want to work with images, OpenCV is almost essential.
+
+---
+
+### 🔥 PyTorch
+
+Use PyTorch to build Deep Learning models for Computer Vision.
+
+You'll use it to train CNNs and many other modern architectures.
+
+---
+
+### 🤗 Hugging Face
+
+Hugging Face isn't only for NLP.
+
+It also provides powerful Computer Vision models that you can use with just a few lines of code.
+
+---
+
+## 🚀 Beginner Projects
+
+The best way to learn Computer Vision is by building projects.
+
+Start with simple ones like:
+
+- 😊 Face Detection
+- ✋ Hand Detection
+- 😷 Face Mask Detection
+- 🔢 Handwritten Digit Recognition
+- 🐱 Cat vs Dog Classifier
+- 🌸 Flower Classification
+- 🚗 Vehicle Counter
+- 📷 QR Code Scanner
+
+Each project teaches you a new concept.
+
+---
+
+## ⭐ Advanced Projects
+
+Once you're comfortable with the basics, challenge yourself.
+
+Ideas include:
+
+- 🚦 Traffic Sign Recognition
+- 🚗 License Plate Recognition
+- 🛰️ Satellite Image Classification
+- 🏥 Disease Detection from X-rays
+- 🎥 Real-Time Object Detection
+- 📦 Warehouse Object Tracking
+- 🛒 Smart Shopping Cart
+- 🧍 Human Pose Estimation
+
+These projects are excellent additions to your portfolio.
+
+---
+
+## 💡 A Small Tip
+
+Computer Vision models usually require a lot of images.
+
+Don't be discouraged if your first model performs poorly.
+
+Improve your dataset.
+
+Try different architectures.
+
+Experiment with preprocessing.
+
+Most improvements come from **better data**, not bigger models.
+
+---
+
+## 🎯 Goal
+
+By the end of this chapter, you should be able to:
+
+- ✅ Understand how computers analyze images
+- ✅ Use OpenCV for image processing
+- ✅ Build image classification models
+- ✅ Train CNNs using PyTorch
+- ✅ Create your own Computer Vision projects
+- ✅ Understand where Computer Vision is used in the real world
+
+Congratulations! 🎉
+
+You've now taught computers how to **see**.
+
+Next, it's time to teach them how to **understand human language.**
