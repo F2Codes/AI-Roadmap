@@ -1,8 +1,8 @@
-AI Roadmap
+# AI Roadmap
 
 An Easy Roadmap for Learning AI! 🤖
 
-👋 Introduction
+## 👋 Introduction
 
 Hello everyone!
 
