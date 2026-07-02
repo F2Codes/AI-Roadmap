@@ -652,3 +652,145 @@ By the end of this chapter, you should be able to:
 Now you're ready to move one step closer to modern AI...
 
 # 🧠 Chapter 6 — Deep Learning
+
+Now that you've learned the basics of Machine Learning, it's time to explore one of the most exciting fields in AI:
+
+**Deep Learning.**
+
+Deep Learning is a branch of Machine Learning that uses **Artificial Neural Networks** inspired by the human brain.
+
+These networks can learn incredibly complex patterns from massive amounts of data.
+
+Many of the AI tools we use every day are powered by Deep Learning.
+
+Examples include:
+
+- 💬 ChatGPT
+- 🎨 AI Image Generators
+- 🎙️ Speech Recognition
+- 🌍 Machine Translation
+- 🚗 Self-driving Cars
+- 👁️ Face Recognition
+
+---
+
+## 🧠 What is a Neural Network?
+
+A Neural Network is made up of many connected **neurons** (also called nodes).
+
+Information flows through these neurons in multiple layers:
+
+- 📥 Input Layer
+- 🧩 Hidden Layer(s)
+- 📤 Output Layer
+
+As the network trains, it gradually learns to make better predictions by adjusting its internal parameters.
+
+Don't worry if this sounds confusing at first.
+
+You don't need to understand every mathematical detail immediately.
+
+Start by understanding the **concept**, then dive deeper as you gain experience.
+
+---
+
+## 🔥 Learn the Fundamentals
+
+Before building advanced AI models, make sure you understand these concepts:
+
+- Neurons
+- Layers
+- Activation Functions
+- Forward Propagation
+- Backpropagation
+- Loss Functions
+- Gradient Descent
+- Epochs
+- Batch Size
+- Learning Rate
+- Overfitting
+- Underfitting
+
+These concepts appear in almost every Deep Learning project.
+
+---
+
+## 🛠️ Frameworks You Should Learn
+
+Fortunately, you don't have to build neural networks from scratch.
+
+Modern frameworks make everything much easier.
+
+### 🔥 PyTorch
+
+One of the most popular Deep Learning frameworks today.
+
+Used by:
+
+- Researchers
+- Universities
+- Startups
+- Large AI companies
+
+PyTorch is flexible, beginner-friendly, and widely used in modern AI research.
+
+---
+
+### ⚡ TensorFlow & Keras
+
+TensorFlow is another powerful framework developed by Google.
+
+Keras provides a simple interface for building neural networks with TensorFlow.
+
+Although PyTorch has become the preferred choice for many researchers, learning either framework is a valuable skill.
+
+---
+
+## 💻 Practice with Real Projects
+
+Theory alone isn't enough.
+
+Build projects such as:
+
+- 🖼️ Image Classifier
+- 😃 Face Mask Detector
+- ✍️ Handwritten Digit Recognition (MNIST)
+- 🐶 Cat vs Dog Classifier
+- 🎭 Emotion Recognition
+- 🌸 Flower Classification
+
+Each project will help you better understand how neural networks learn.
+
+---
+
+## 💡 A Friendly Reminder
+
+Deep Learning may seem overwhelming at first.
+
+That's completely normal.
+
+Even experienced AI engineers don't memorize every architecture or formula.
+
+The key is to keep learning, experimenting, and building projects.
+
+Progress comes through practice—not perfection.
+
+---
+
+## 🎯 Goal
+
+By the end of this chapter, you should be able to:
+
+- ✅ Understand how neural networks work
+- ✅ Build simple Deep Learning models
+- ✅ Train models using PyTorch or TensorFlow
+- ✅ Recognize common Deep Learning concepts
+- ✅ Create image classification projects
+
+Fantastic! 🎉
+
+You've now reached the point where you can build intelligent models.
+
+The next step is learning how AI can **see** the world.
+
+# 👁️ Chapter 7 — Computer Vision
