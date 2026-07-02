@@ -213,3 +213,137 @@ If you can do these things, congratulations!
 You're ready for the next step:
 
 # 📚 Chapter 3 — Mathematics for AI
+
+If you've searched **"How to learn AI"** before, you've probably heard people say:
+
+> **"You need to be amazing at math before you even start."**
+
+Well... that's not entirely true.
+
+Yes, mathematics is important for AI—but you **don't** need to master every branch of mathematics before you begin your journey.
+
+In fact, I'd like to share something personal.
+
+> 💙 **I'm currently a middle school student, and when I started learning AI, I didn't have extensive knowledge of mathematics either.**
+
+Instead of trying to learn every math topic at once, I learned **only what I needed, when I needed it**.
+
+As I progressed through Machine Learning and Deep Learning, I studied the required mathematical concepts alongside them.
+
+And honestly?
+
+I've never had a serious problem because of that approach.
+
+So if you're worried that your math isn't good enough...
+
+**Don't let that stop you.**
+
+---
+
+## 🧮 Which Math Topics Should You Learn?
+
+You don't need university-level mathematics on day one.
+
+Start with these fundamentals:
+
+### ➕ Basic Mathematics
+
+- Arithmetic
+- Fractions
+- Decimals
+- Percentages
+- Exponents
+- Square Roots
+
+These should already feel familiar if you've finished middle school.
+
+---
+
+### 📈 Algebra
+
+Algebra is one of the most important skills for AI.
+
+Focus on:
+
+- Variables
+- Equations
+- Functions
+- Graphs
+- Polynomials
+- Logarithms
+- Exponential Functions
+
+---
+
+### 📐 Linear Algebra
+
+This is the language of Machine Learning.
+
+Learn about:
+
+- Vectors
+- Matrices
+- Matrix Operations
+- Dot Product
+- Matrix Multiplication
+- Eigenvalues & Eigenvectors *(later on)*
+
+Don't worry if these words sound unfamiliar today—you'll understand them over time.
+
+---
+
+### 📊 Statistics & Probability
+
+AI models learn from **data**, and statistics helps us understand that data.
+
+Important topics include:
+
+- Mean
+- Median
+- Mode
+- Variance
+- Standard Deviation
+- Probability
+- Distributions
+- Correlation
+
+---
+
+### 📉 Calculus
+
+Calculus becomes important once you start learning **Deep Learning**.
+
+You don't need to learn it immediately.
+
+When the time comes, focus on:
+
+- Limits
+- Derivatives
+- Partial Derivatives
+- Gradients
+
+---
+
+## 💡 Learn Math with a Purpose
+
+Here's my advice:
+
+❌ Don't spend months trying to finish every math textbook before touching AI.
+
+✅ Instead, whenever you encounter a mathematical concept in AI, pause, learn that concept, understand it, and then continue.
+
+This approach keeps learning enjoyable and prevents you from feeling overwhelmed.
+
+---
+
+## 🎯 Goal
+
+By the end of this chapter, you should:
+
+- ✅ Feel confident about learning math gradually.
+- ✅ Understand which topics are actually important.
+- ✅ Know that you don't have to be a math genius to begin.
+- ✅ Be ready to move into the exciting world of data.
+
+Now it's time for the next step...
+
